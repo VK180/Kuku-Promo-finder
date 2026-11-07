@@ -50,33 +50,12 @@ cross-episode montage.
    **Run on a new screenplay input** to analyze a local directory, local ZIP,
    uploaded ZIP, or multiple uploaded TXT scripts.
 
-## Deploy to Streamlit Community Cloud
-
-The app entry point is `app.py`, and `requirements.txt` lists its dependencies.
-Create the Community Cloud app from the
-[Kuku Promo Finder GitHub repository](https://github.com/VK180/Kuku-Promo-finder)
-or open the [pre-filled deployment form](https://share.streamlit.io/deploy?repository=VK180%2FKuku-Promo-finder&branch=main&mainModule=app.py).
-Select branch `main` and main file `app.py` if they are not preselected. The
-repository includes the generated `raw_outputs/` results and `SOLUTION.md`; the
-hosted app loads the saved rankings and shows hooks, cliffhangers, timestamps,
-and scores on startup. Reviewers can also upload another permitted ZIP/TXT pack,
-select a provider and model, and enter their API key in the form. The assignment
-source screenplay ZIP, `.env`, and `SOLUTION.pdf` are excluded from the public
-repository. The chosen model API receives uploaded screenplay text.
-
 ## Model providers
 
-The provider-independent extraction flow uses a small `JSONModelProvider`
-interface. Two adapters are included:
-
-- `gemini`: Google Gemini through the Google GenAI SDK.
-- `openai-compatible`: APIs implementing the OpenAI Chat Completions endpoint
-  and JSON-object response mode. Set the provider's base URL for compatible
-  hosted services; leave it blank for the OpenAI API. The Gemini-specific
-  `GEMINI_API_KEY` and `GEMINI_MODEL` environment variables are also supported.
-
-Choose the provider, model ID, API key, and (when needed) API base URL in the
-app's **Run on a new screenplay input** form. For the CLI, configure `.env`:
+The app and CLI support Gemini and OpenAI-compatible JSON APIs. Choose the
+provider, model, and API key in the app, or set `MODEL_PROVIDER`, `MODEL_NAME`,
+and `MODEL_API_KEY` in `.env`. Leave `MODEL_BASE_URL` blank for OpenAI; other API
+protocols need a provider adapter.
 
 ```text
 MODEL_PROVIDER=gemini
@@ -84,13 +63,6 @@ MODEL_API_KEY=your_provider_key
 MODEL_NAME=gemini-3.5-flash-lite
 MODEL_BASE_URL=
 ```
-
-Or pass `--provider`, `--model`, and `--base-url`; `MODEL_API_KEY` is read from
-the environment. Existing `GEMINI_API_KEY` and `GEMINI_MODEL` settings remain
-supported for Gemini. Changing model IDs works when the selected provider/account
-offers that model. A provider with a different API protocol needs an adapter
-implementing `JSONModelProvider`; no client can automatically work with every
-proprietary API protocol.
 
 The default request delay is 12 seconds; use `--delay` to adjust it to your quota.
 The extractor retries invalid model responses up to three times,
