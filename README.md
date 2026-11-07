@@ -6,6 +6,12 @@ can be rerun on additional screenplay folders or ZIP/TXT inputs. It proposes a
 and ranks valid candidates. It also selects a related story arc and proposes a
 separate cross-episode montage.
 
+## Live app
+
+Open the deployed [Microdrama Promo Finder](https://kuku-promo-finder-4keapuoodeswhjsn8raodl.streamlit.app/)
+to view the ranked episode promos, hooks, cliffhangers, timestamps, and
+cross-episode montage.
+
 ## Run locally
 
 1. Install Python 3.10+ and the project dependencies:
