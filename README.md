@@ -48,12 +48,14 @@ separate cross-episode montage.
 ## Deploy to Streamlit Community Cloud
 
 The app entry point is `app.py`, and `requirements.txt` lists its dependencies.
-After pushing the app source to GitHub, create a Community Cloud app from that
-repository's `main` branch and set the main file to `app.py`. The hosted app can
-start without saved results: a reviewer uploads a permitted ZIP/TXT pack, selects
-a provider and model, and enters their API key in the form. Do not add `.env`,
-screenplay packs, or generated raw outputs to a public repository. The chosen
-model API receives uploaded screenplay text.
+Create the Community Cloud app from the
+[Kuku Promo Finder GitHub repository](https://github.com/VK180/Kuku-Promo-finder)
+or open the [pre-filled deployment form](https://share.streamlit.io/deploy?repository=VK180%2FKuku-Promo-finder&branch=main&mainModule=app.py).
+Select branch `main` and main file `app.py` if they are not preselected. The hosted
+app can start without saved results: a reviewer uploads a permitted ZIP/TXT pack,
+selects a provider and model, and enters their API key in the form. Do not add
+`.env`, screenplay packs, or generated raw outputs to a public repository. The
+chosen model API receives uploaded screenplay text.
 
 ## Model providers
 
