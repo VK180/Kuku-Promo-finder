@@ -1,0 +1,29 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:03.20"
+    },
+    {
+      "start_timestamp": "00:03.40",
+      "end_timestamp": "00:07.50"
+    },
+    {
+      "start_timestamp": "01:50.00",
+      "end_timestamp": "01:54.80"
+    },
+    {
+      "start_timestamp": "02:22.80",
+      "end_timestamp": "02:31.40"
+    }
+  ],
+  "hook": "A scarred stranger offers a silver ring to a stunned bride in the chapel.",
+  "cliffhanger": "Will Juliana and her mysterious husband survive exile after being disowned by her cruel family?",
+  "reasoning": "This clip quickly establishes the stakes, the family's cruelty, the sudden marriage, and the dramatic walk into exile, capturing a complete mini-arc for a new viewer.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 4
+  }
+}

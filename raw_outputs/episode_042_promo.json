@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 42",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:10.50"
+    },
+    {
+      "episode_number": "Episode 42",
+      "start_timestamp": "00:18.00",
+      "end_timestamp": "00:23.40"
+    },
+    {
+      "episode_number": "Episode 42",
+      "start_timestamp": "01:04.20",
+      "end_timestamp": "01:17.50"
+    }
+  ],
+  "hook": "An imposing nobleman steps through pulverized cathedral doors with cold authority.",
+  "cliffhanger": "Alexander declares that they will now settle what Rupert stole.",
+  "reasoning": "The clip immediately establishes the high-stakes confrontation and betrayal, culminating in a powerful declaration of vengeance.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 29.2,
+  "episode_number": "Episode 42"
+}

@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:17.50",
+      "end_timestamp": "00:22.80"
+    },
+    {
+      "start_timestamp": "00:58.00",
+      "end_timestamp": "01:00.50"
+    },
+    {
+      "start_timestamp": "01:21.00",
+      "end_timestamp": "01:36.09"
+    }
+  ],
+  "hook": "Juliana is marched into the cathedral in heavy prison chains to be publicly disgraced by the bride.",
+  "cliffhanger": "Juliana's expression shifts from grim resolve into awestruck realization as mysterious figures emerge from the smoke of the explosion.",
+  "reasoning": "This clip delivers immediate high stakes by opening on a chained captive, builds core conflict through her defiance, and concludes with an explosive rescue cliffhanger that draws in new viewers.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  }
+}

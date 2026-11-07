@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 26",
+      "start_timestamp": "01:02.60",
+      "end_timestamp": "01:06.70"
+    },
+    {
+      "episode_number": "Episode 26",
+      "start_timestamp": "01:30.80",
+      "end_timestamp": "01:40.00"
+    },
+    {
+      "episode_number": "Episode 26",
+      "start_timestamp": "01:49.20",
+      "end_timestamp": "02:00.88"
+    }
+  ],
+  "hook": "Juliana reassures the poisoned Duchess that the charcoal antidote is working and she is safe.",
+  "cliffhanger": "The Dowager Duchess recognizes the signet ring on Juliana's hand and fiercely demands to know where she got it.",
+  "reasoning": "This clip quickly establishes the life-or-death poisoning plot before pivoting to the central mystery of Juliana's true identity, ending on a powerful, unresolved cliffhanger.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  },
+  "rank_score": 88.0,
+  "duration_seconds": 24.98,
+  "episode_number": "Episode 26"
+}

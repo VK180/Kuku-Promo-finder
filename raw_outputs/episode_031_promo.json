@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 31",
+      "start_timestamp": "00:02.80",
+      "end_timestamp": "00:09.50"
+    },
+    {
+      "episode_number": "Episode 31",
+      "start_timestamp": "00:39.00",
+      "end_timestamp": "00:43.00"
+    },
+    {
+      "episode_number": "Episode 31",
+      "start_timestamp": "02:18.00",
+      "end_timestamp": "02:40.00"
+    }
+  ],
+  "hook": "Juliana recoils against the damp stonework in chains as light floods the dark cell and Catherine enters with a hot poker.",
+  "cliffhanger": "Will Catherine press the red-hot iron into Juliana's face?",
+  "reasoning": "This clip quickly establishes the high-stakes prison dynamic and unyielding psychological warfare, hooking new viewers immediately with visceral danger and a terrifying cliffhanger.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 32.7,
+  "episode_number": "Episode 31"
+}

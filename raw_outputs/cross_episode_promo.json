@@ -1,0 +1,36 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 41",
+      "start_timestamp": "01:21.00",
+      "end_timestamp": "01:25.50"
+    },
+    {
+      "episode_number": "Episode 42",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:10.50"
+    },
+    {
+      "episode_number": "Episode 44",
+      "start_timestamp": "01:05.00",
+      "end_timestamp": "01:10.50"
+    }
+  ],
+  "hook": "An ear-splitting detonation shatters the cathedral entrance as stone masonry and wood splinter into flying shrapnel.",
+  "cliffhanger": "Catherine gasps in utter disbelief 'Her?!' as Alexander turns away from her to approach the chained Juliana.",
+  "reasoning": "This 3-moment edit opens with explosive spectacle, transitions to Alexander's imposing reclamation of his ducal title, and cuts on the dramatic betrayal of Catherine as Alexander chooses Juliana.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  },
+  "rank_score": 94.0,
+  "duration_seconds": 20.5,
+  "episode_number": "Cross-episode",
+  "episode_numbers": [
+    "Episode 41",
+    "Episode 42",
+    "Episode 44"
+  ]
+}

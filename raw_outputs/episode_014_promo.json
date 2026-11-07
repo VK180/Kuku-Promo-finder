@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 14",
+      "start_timestamp": "00:00.50",
+      "end_timestamp": "00:05.50"
+    },
+    {
+      "episode_number": "Episode 14",
+      "start_timestamp": "00:16.80",
+      "end_timestamp": "00:23.00"
+    },
+    {
+      "episode_number": "Episode 14",
+      "start_timestamp": "01:16.00",
+      "end_timestamp": "01:27.63"
+    }
+  ],
+  "hook": "Juliana's blood-streaked, mud-caked hand uncurls amidst sharp thorns to reveal an emerald signet ring.",
+  "cliffhanger": "Alexander clenches his scarred fist into a tight ball of brewing vengeance as the screen cuts to silence.",
+  "reasoning": "The clip immediately highlights the extreme physical sacrifice made for love, builds emotional stakes through their reunion, and ends on a dark vow of revenge that hooks new viewers.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  },
+  "rank_score": 94.0,
+  "duration_seconds": 22.83,
+  "episode_number": "Episode 14"
+}

@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:07.10",
+      "end_timestamp": "00:14.90"
+    },
+    {
+      "start_timestamp": "00:24.00",
+      "end_timestamp": "00:33.70"
+    },
+    {
+      "start_timestamp": "01:10.10",
+      "end_timestamp": "01:23.80"
+    }
+  ],
+  "hook": "Juliana and her mysterious new husband trudge through the dark, rainy woods while he acknowledges her difficult new reality.",
+  "cliffhanger": "Juliana breaks down while scrubbing the cabin, declaring that stopping means confronting everything she has lost.",
+  "reasoning": "This clip showcases Juliana's transition from aristocratic despair to finding an unexpected sanctuary, creating an emotional and standalone narrative arc.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 4
+  }
+}

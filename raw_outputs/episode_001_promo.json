@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 1",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:04.80"
+    },
+    {
+      "episode_number": "Episode 1",
+      "start_timestamp": "00:39.00",
+      "end_timestamp": "00:43.90"
+    },
+    {
+      "episode_number": "Episode 1",
+      "start_timestamp": "01:59.50",
+      "end_timestamp": "02:18.00"
+    }
+  ],
+  "hook": "Lady Juliana stands framed in the light at the heavy church doors in her mother's wedding gown, smiling with joyful anticipation.",
+  "cliffhanger": "Juliana's tearful face hardens into cold, resolute defiance as the string drone swells before cutting to black, leaving her next move completely unknown.",
+  "reasoning": "This multi-moment clip immediately establishes the high-stakes betrayal by her fiancé and family, drawing new viewers in with a strong emotional arc and a powerful cliffhanger.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 5,
+    "timing": 4
+  },
+  "rank_score": 98.0,
+  "duration_seconds": 28.2,
+  "episode_number": "Episode 1"
+}

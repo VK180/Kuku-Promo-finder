@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:32.40",
+      "end_timestamp": "00:36.50"
+    },
+    {
+      "start_timestamp": "00:52.80",
+      "end_timestamp": "00:59.80"
+    },
+    {
+      "start_timestamp": "01:25.20",
+      "end_timestamp": "01:38.41"
+    }
+  ],
+  "hook": "A disguised loyalist violently lunges off a wooden cart to ambush and tackle a royal sentry.",
+  "cliffhanger": "Alexander vows to reclaim his house and rescue his wife just before the screen cuts sharply to black.",
+  "reasoning": "The clip immediately hooks viewers with violent action, showcases the dramatic transformation of the exiled Duke, and finishes on a powerful, high-stakes vow of vengeance.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

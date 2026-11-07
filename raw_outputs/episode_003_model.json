@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "01:06.00",
+      "end_timestamp": "01:12.80"
+    },
+    {
+      "start_timestamp": "01:24.00",
+      "end_timestamp": "01:25.50"
+    },
+    {
+      "start_timestamp": "02:12.70",
+      "end_timestamp": "02:25.75"
+    }
+  ],
+  "hook": "An imposing stranger steps into the aisle and commands the guards to release Juliana.",
+  "cliffhanger": "Will Juliana accept the mysterious stranger's shocking proposal?",
+  "reasoning": "This clip effectively highlights Juliana's rescue and the dramatic proposal, offering high emotional stakes and a strong cliffhanger for new viewers.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

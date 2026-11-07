@@ -1,0 +1,1670 @@
+{
+  "generated_at": "2026-11-06T17:44:37.487053+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "episodes_in_pack": 50,
+  "candidates_generated": 50,
+  "cross_episode_candidates_generated": 1,
+  "failures": [],
+  "ranking_method": "Weighted model rubric: hook 30%, cliffhanger 30%, standalone 30%, timing 10%; scores are 1–5 and mapped to 20–100.",
+  "ranked_promos": [
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 15",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:05.00"
+        },
+        {
+          "episode_number": "Episode 15",
+          "start_timestamp": "00:46.50",
+          "end_timestamp": "01:26.00"
+        }
+      ],
+      "hook": "Three menacing thugs stalk through a quiet herbal garden before brutally smashing a wooden planter box with a heavy club.",
+      "cliffhanger": "Alexander stands between the ruthless thugs and Juliana as the thugs challenge him right before a tense cello swell holds into an abrupt cut.",
+      "reasoning": "This clip delivers high emotional stakes, showing cruelty toward Juliana's bandaged hands and her mother's garden, followed by Alexander's thrilling arrival to defend her.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 5,
+        "timing": 5
+      },
+      "rank_score": 100.0,
+      "duration_seconds": 44.5,
+      "episode_number": "Episode 15",
+      "rank": 1
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 1",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:04.80"
+        },
+        {
+          "episode_number": "Episode 1",
+          "start_timestamp": "00:39.00",
+          "end_timestamp": "00:43.90"
+        },
+        {
+          "episode_number": "Episode 1",
+          "start_timestamp": "01:59.50",
+          "end_timestamp": "02:18.00"
+        }
+      ],
+      "hook": "Lady Juliana stands framed in the light at the heavy church doors in her mother's wedding gown, smiling with joyful anticipation.",
+      "cliffhanger": "Juliana's tearful face hardens into cold, resolute defiance as the string drone swells before cutting to black, leaving her next move completely unknown.",
+      "reasoning": "This multi-moment clip immediately establishes the high-stakes betrayal by her fiancé and family, drawing new viewers in with a strong emotional arc and a powerful cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 5,
+        "timing": 4
+      },
+      "rank_score": 98.0,
+      "duration_seconds": 28.2,
+      "episode_number": "Episode 1",
+      "rank": 2
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 3",
+          "start_timestamp": "01:06.00",
+          "end_timestamp": "01:12.80"
+        },
+        {
+          "episode_number": "Episode 3",
+          "start_timestamp": "01:24.00",
+          "end_timestamp": "01:25.50"
+        },
+        {
+          "episode_number": "Episode 3",
+          "start_timestamp": "02:12.70",
+          "end_timestamp": "02:25.75"
+        }
+      ],
+      "hook": "An imposing stranger steps into the aisle and commands the guards to release Juliana.",
+      "cliffhanger": "Will Juliana accept the mysterious stranger's shocking proposal?",
+      "reasoning": "This clip effectively highlights Juliana's rescue and the dramatic proposal, offering high emotional stakes and a strong cliffhanger for new viewers.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 21.35,
+      "episode_number": "Episode 3",
+      "rank": 3
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 12",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:04.50"
+        },
+        {
+          "episode_number": "Episode 12",
+          "start_timestamp": "00:46.70",
+          "end_timestamp": "01:00.60"
+        },
+        {
+          "episode_number": "Episode 12",
+          "start_timestamp": "01:15.30",
+          "end_timestamp": "01:27.21"
+        }
+      ],
+      "hook": "The Constable abruptly handcuffs veteran Alexander, arresting him for grand theft inside a rustic cottage.",
+      "cliffhanger": "Will Juliana truly destroy her bare hands in the frozen briars to save her husband from the gallows?",
+      "reasoning": "This clip establishes an immediate false arrest, escalates through a sadistic ultimatum by the villainous sister, and peaks with a high-stakes sacrifice by the wife.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 30.31,
+      "episode_number": "Episode 12",
+      "rank": 4
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 14",
+          "start_timestamp": "00:00.50",
+          "end_timestamp": "00:05.50"
+        },
+        {
+          "episode_number": "Episode 14",
+          "start_timestamp": "00:16.80",
+          "end_timestamp": "00:23.00"
+        },
+        {
+          "episode_number": "Episode 14",
+          "start_timestamp": "01:16.00",
+          "end_timestamp": "01:27.63"
+        }
+      ],
+      "hook": "Juliana's blood-streaked, mud-caked hand uncurls amidst sharp thorns to reveal an emerald signet ring.",
+      "cliffhanger": "Alexander clenches his scarred fist into a tight ball of brewing vengeance as the screen cuts to silence.",
+      "reasoning": "The clip immediately highlights the extreme physical sacrifice made for love, builds emotional stakes through their reunion, and ends on a dark vow of revenge that hooks new viewers.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 22.83,
+      "episode_number": "Episode 14",
+      "rank": 5
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 16",
+          "start_timestamp": "00:14.30",
+          "end_timestamp": "00:21.80"
+        },
+        {
+          "episode_number": "Episode 16",
+          "start_timestamp": "00:40.80",
+          "end_timestamp": "00:55.20"
+        }
+      ],
+      "hook": "Alexander effortlessly catches an iron pipe swung by a charging thug with his bare hand.",
+      "cliffhanger": "Juliana reels in absolute shock as the thug confesses that Gerald Harrington is the mastermind behind the attack.",
+      "reasoning": "This clip pairs high-octane combat action right at the start with a massive betrayal revelation, delivering a punchy, complete narrative arc within 22 seconds.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 21.9,
+      "episode_number": "Episode 16",
+      "rank": 6
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 18",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:02.10"
+        },
+        {
+          "episode_number": "Episode 18",
+          "start_timestamp": "01:21.50",
+          "end_timestamp": "01:26.50"
+        },
+        {
+          "episode_number": "Episode 18",
+          "start_timestamp": "02:51.00",
+          "end_timestamp": "03:12.00"
+        }
+      ],
+      "hook": "Bright orange flames crackling beneath a closed bedroom door with thick smoke billowing through the crevices",
+      "cliffhanger": "Alexander's silent, unyielding resolve staring into the inferno as Juliana asks what he is going to do",
+      "reasoning": "This clip immediately establishes high-stakes peril with a house fire, builds tension through a narrow escape to save a treasured ledger, and ends on a powerful vow of vengeance that drives the narrative forward for any viewer.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 28.1,
+      "episode_number": "Episode 18",
+      "rank": 7
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 21",
+          "start_timestamp": "00:03.50",
+          "end_timestamp": "00:08.00"
+        },
+        {
+          "episode_number": "Episode 21",
+          "start_timestamp": "01:10.50",
+          "end_timestamp": "01:15.50"
+        },
+        {
+          "episode_number": "Episode 21",
+          "start_timestamp": "01:41.20",
+          "end_timestamp": "01:48.40"
+        },
+        {
+          "episode_number": "Episode 21",
+          "start_timestamp": "01:48.50",
+          "end_timestamp": "01:54.00"
+        }
+      ],
+      "hook": "Prudence bursts through the barn doors frantically weeping and pleading that her brother Toby is dying.",
+      "cliffhanger": "Lady Juliana is left staring down at her ledger in shock as she realizes the Dowager Duchess is secretly dying from a mysterious illness.",
+      "reasoning": "The clip hooks the viewer immediately with a medical emergency, shows Juliana's heroic cure, and ends on a high-stakes secret that introduces the central aristocratic conflict.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 22.2,
+      "episode_number": "Episode 21",
+      "rank": 8
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 22",
+          "start_timestamp": "00:06.50",
+          "end_timestamp": "00:11.10"
+        },
+        {
+          "episode_number": "Episode 22",
+          "start_timestamp": "00:43.00",
+          "end_timestamp": "00:51.80"
+        },
+        {
+          "episode_number": "Episode 22",
+          "start_timestamp": "02:03.00",
+          "end_timestamp": "02:11.00"
+        }
+      ],
+      "hook": "Prudence rushes up to warn Juliana to keep her head down because if anyone recognizes her, everything is over.",
+      "cliffhanger": "The Dowager Duchess suffers an agonizing convulsion while staring with terrified eyes as Juliana demands to know who has been treating her for the poison.",
+      "reasoning": "This clip effectively compresses the high-stakes infiltration and the terrifying medical discovery into an engaging 21-second teaser that stands on its own.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 21.4,
+      "episode_number": "Episode 22",
+      "rank": 9
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 28",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:04.70"
+        },
+        {
+          "episode_number": "Episode 28",
+          "start_timestamp": "00:24.80",
+          "end_timestamp": "00:32.80"
+        },
+        {
+          "episode_number": "Episode 28",
+          "start_timestamp": "02:11.20",
+          "end_timestamp": "02:18.50"
+        }
+      ],
+      "hook": "Juliana is dragged backward by a guard and her herbarium is trampled by Catherine's foot.",
+      "cliffhanger": "Will Juliana be executed for a crime she didn't commit now that her true aristocratic identity has been exposed?",
+      "reasoning": "This clip effectively highlights the framed protagonist, the duchess's dramatic defense, and the high-stakes threat of the gallows.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 20.0,
+      "episode_number": "Episode 28",
+      "rank": 10
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 34",
+          "start_timestamp": "00:01.20",
+          "end_timestamp": "00:07.80"
+        },
+        {
+          "episode_number": "Episode 34",
+          "start_timestamp": "00:35.40",
+          "end_timestamp": "00:44.60"
+        },
+        {
+          "episode_number": "Episode 34",
+          "start_timestamp": "03:01.00",
+          "end_timestamp": "03:10.00"
+        }
+      ],
+      "hook": "The Judge formally accuses Lady Juliana of witchcraft, unlawful healing, and poisoning in a tense courtroom.",
+      "cliffhanger": "Will the judge sentence the defiant Lady Juliana to execution as the final verdict hangs in the balance?",
+      "reasoning": "The clip instantly grabs attention with a high-stakes witchcraft trial, builds emotional tension through her coerced maid's false testimony, and leaves viewers hanging right before the final sentence is delivered.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 24.8,
+      "episode_number": "Episode 34",
+      "rank": 11
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 39",
+          "start_timestamp": "00:32.40",
+          "end_timestamp": "00:36.50"
+        },
+        {
+          "episode_number": "Episode 39",
+          "start_timestamp": "00:52.80",
+          "end_timestamp": "00:59.80"
+        },
+        {
+          "episode_number": "Episode 39",
+          "start_timestamp": "01:25.20",
+          "end_timestamp": "01:38.41"
+        }
+      ],
+      "hook": "A disguised loyalist violently lunges off a wooden cart to ambush and tackle a royal sentry.",
+      "cliffhanger": "Alexander vows to reclaim his house and rescue his wife just before the screen cuts sharply to black.",
+      "reasoning": "The clip immediately hooks viewers with violent action, showcases the dramatic transformation of the exiled Duke, and finishes on a powerful, high-stakes vow of vengeance.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 24.31,
+      "episode_number": "Episode 39",
+      "rank": 12
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 43",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:03.90"
+        },
+        {
+          "episode_number": "Episode 43",
+          "start_timestamp": "00:13.80",
+          "end_timestamp": "00:21.60"
+        },
+        {
+          "episode_number": "Episode 43",
+          "start_timestamp": "01:43.40",
+          "end_timestamp": "01:54.96"
+        }
+      ],
+      "hook": "Rupert frantically screams 'You're lying!' and lunges in venomous desperation.",
+      "cliffhanger": "Will Lord Sterling escape past the police constable or will his treasonous plot be fully exposed?",
+      "reasoning": "This clip opens with an immediate emotional explosion, clearly establishes Alexander's rightful claim through the royal guard's defiance, and cuts on a high-stakes escape attempt.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 23.26,
+      "episode_number": "Episode 43",
+      "rank": 13
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 44",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:13.80"
+        },
+        {
+          "episode_number": "Episode 44",
+          "start_timestamp": "00:24.40",
+          "end_timestamp": "00:42.80"
+        },
+        {
+          "episode_number": "Episode 44",
+          "start_timestamp": "01:05.00",
+          "end_timestamp": "01:10.50"
+        }
+      ],
+      "hook": "A stern Police Constable steps through stone doors to arrest Lord Sterling under the Crown's order.",
+      "cliffhanger": "Catherine gasps in horrified disbelief as Alexander walks past her to approach a chained bride.",
+      "reasoning": "The clip establishes immediate high-stakes conflict with an arrest, escalates through a deeply emotional romantic betrayal, and ends on a stunning unresolved question about the protagonist's true allegiance.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 37.7,
+      "episode_number": "Episode 44",
+      "rank": 14
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 45",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:04.80"
+        },
+        {
+          "episode_number": "Episode 45",
+          "start_timestamp": "01:14.60",
+          "end_timestamp": "01:20.40"
+        },
+        {
+          "episode_number": "Episode 45",
+          "start_timestamp": "01:48.80",
+          "end_timestamp": "02:01.75"
+        }
+      ],
+      "hook": "Alexander strides purposefully down the cathedral aisle toward Juliana who stands shackled in chains.",
+      "cliffhanger": "A high priest arrives with a royal parchment to declare their marriage legally invalid, while rival Catherine smiles triumphantly.",
+      "reasoning": "This clip immediately grabs attention with a dramatic rescue, establishes the romantic stakes of the new duchess proclamation, and leaves viewers hanging on a devastating legal twist.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 23.55,
+      "episode_number": "Episode 45",
+      "rank": 15
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 10",
+          "start_timestamp": "00:02.60",
+          "end_timestamp": "00:06.80"
+        },
+        {
+          "episode_number": "Episode 10",
+          "start_timestamp": "00:33.20",
+          "end_timestamp": "00:39.20"
+        },
+        {
+          "episode_number": "Episode 10",
+          "start_timestamp": "01:19.00",
+          "end_timestamp": "01:34.00"
+        }
+      ],
+      "hook": "Alexander stands in the dark threshold, panting heavily with his hand pressed against his blood-soaked chest.",
+      "cliffhanger": "Juliana is left completely captivated and overwhelmed by Alexander's intense confession as the firelight dances across their intertwined hands.",
+      "reasoning": "The clip immediately grabs the viewer with the shocking entrance of a wounded man, develops the intimate backstory through his scars, and ends on an unresolved romantic cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 25.2,
+      "episode_number": "Episode 10",
+      "rank": 16
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 13",
+          "start_timestamp": "01:07.50",
+          "end_timestamp": "01:14.00"
+        },
+        {
+          "episode_number": "Episode 13",
+          "start_timestamp": "01:43.00",
+          "end_timestamp": "01:58.88"
+        }
+      ],
+      "hook": "A massive blackthorn needle stabs deep into the back of Juliana's bleeding hand with a sickening crunch.",
+      "cliffhanger": "Will Juliana survive the brutal escape from the thorn garden, and will the emerald signet ring actually save Alexander from the gallows?",
+      "reasoning": "The visceral violence of the thorns combined with the emotional stakes of her bleeding for her husband creates an intense hook and high-stakes cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 22.38,
+      "episode_number": "Episode 13",
+      "rank": 17
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 19",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:04.50"
+        },
+        {
+          "episode_number": "Episode 19",
+          "start_timestamp": "00:43.00",
+          "end_timestamp": "00:49.20"
+        },
+        {
+          "episode_number": "Episode 19",
+          "start_timestamp": "01:16.50",
+          "end_timestamp": "01:18.80"
+        },
+        {
+          "episode_number": "Episode 19",
+          "start_timestamp": "01:52.50",
+          "end_timestamp": "01:59.63"
+        }
+      ],
+      "hook": "Juliana stands amidst the smoldering wreckage of her destroyed home, clutching a scorched book and lamenting that they lost everything.",
+      "cliffhanger": "Alexander vows vengeance as his mother remains imprisoned, leaving viewers wondering how he will reclaim his stolen title.",
+      "reasoning": "This clip effectively introduces the protagonists' sudden ruin, the political conspiracy against them, and their resilient bond, creating a compelling standalone promo.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 20.13,
+      "episode_number": "Episode 19",
+      "rank": 18
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 23",
+          "start_timestamp": "00:11.80",
+          "end_timestamp": "00:16.80"
+        },
+        {
+          "episode_number": "Episode 23",
+          "start_timestamp": "01:19.00",
+          "end_timestamp": "01:21.50"
+        },
+        {
+          "episode_number": "Episode 23",
+          "start_timestamp": "01:52.20",
+          "end_timestamp": "02:11.50"
+        }
+      ],
+      "hook": "Close-up of the dying Duchess's dark, purplish-black fingernails revealing immediate evidence of foul play.",
+      "cliffhanger": "The heavy bedroom door begins to slowly open while Juliana is trapped mixing the antidote.",
+      "reasoning": "This clip jumps straight from the shocking discovery of arsenic poisoning to an intense, high-stakes interruption, pulling in new viewers with rapid medical mystery and imminent danger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 26.8,
+      "episode_number": "Episode 23",
+      "rank": 19
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 27",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:05.80"
+        },
+        {
+          "episode_number": "Episode 27",
+          "start_timestamp": "01:06.50",
+          "end_timestamp": "01:14.80"
+        },
+        {
+          "episode_number": "Episode 27",
+          "start_timestamp": "01:55.00",
+          "end_timestamp": "02:02.80"
+        },
+        {
+          "episode_number": "Episode 27",
+          "start_timestamp": "02:24.20",
+          "end_timestamp": "02:30.50"
+        }
+      ],
+      "hook": "The Dowager Duchess frantically grabs Juliana's hand and demands to know the origin of her wedding ring.",
+      "cliffhanger": "Will Juliana be successfully framed for attempted murder and dragged away before she can expose the truth?",
+      "reasoning": "This clip establishes a clear central mystery regarding the family crest ring, escalates the tension through a malicious framing plot, and ends on a high-stakes cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 28.2,
+      "episode_number": "Episode 27",
+      "rank": 20
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 31",
+          "start_timestamp": "00:02.80",
+          "end_timestamp": "00:09.50"
+        },
+        {
+          "episode_number": "Episode 31",
+          "start_timestamp": "00:39.00",
+          "end_timestamp": "00:43.00"
+        },
+        {
+          "episode_number": "Episode 31",
+          "start_timestamp": "02:18.00",
+          "end_timestamp": "02:40.00"
+        }
+      ],
+      "hook": "Juliana recoils against the damp stonework in chains as light floods the dark cell and Catherine enters with a hot poker.",
+      "cliffhanger": "Will Catherine press the red-hot iron into Juliana's face?",
+      "reasoning": "This clip quickly establishes the high-stakes prison dynamic and unyielding psychological warfare, hooking new viewers immediately with visceral danger and a terrifying cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 32.7,
+      "episode_number": "Episode 31",
+      "rank": 21
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 32",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:05.20"
+        },
+        {
+          "episode_number": "Episode 32",
+          "start_timestamp": "01:52.50",
+          "end_timestamp": "02:01.80"
+        },
+        {
+          "episode_number": "Episode 32",
+          "start_timestamp": "02:28.00",
+          "end_timestamp": "02:34.38"
+        }
+      ],
+      "hook": "Close-up on a glowing branding iron sizzling against a botanical ledger in a dark dungeon, followed by Catherine mocking chained Juliana.",
+      "cliffhanger": "Will Catherine plunge the glowing iron into Juliana's eye, or will Juliana's unshakeable defiance break her executioner first?",
+      "reasoning": "This clip delivers instant high-stakes visual impact and highlights the intense psychological battle between a trapped captive and her tyrannical tormentor.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 20.88,
+      "episode_number": "Episode 32",
+      "rank": 22
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 33",
+          "start_timestamp": "01:04.40",
+          "end_timestamp": "01:13.00"
+        },
+        {
+          "episode_number": "Episode 33",
+          "start_timestamp": "02:14.50",
+          "end_timestamp": "02:29.00"
+        },
+        {
+          "episode_number": "Episode 33",
+          "start_timestamp": "02:36.20",
+          "end_timestamp": "02:44.50"
+        }
+      ],
+      "hook": "The aristocratic lord coldly threatens to send the maid's seven-year-old brother to the county gaol before sunrise.",
+      "cliffhanger": "Will the heartbroken maid choose to save her brother by committing perjury and framing Lady Juliana for witchcraft?",
+      "reasoning": "The clip immediately highlights the high emotional stakes of coercion, building tension as the lord corners the maid into a devastating choice, ending on a powerful visual and emotional cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 31.4,
+      "episode_number": "Episode 33",
+      "rank": 23
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 35",
+          "start_timestamp": "00:09.00",
+          "end_timestamp": "00:15.50"
+        },
+        {
+          "episode_number": "Episode 35",
+          "start_timestamp": "00:33.80",
+          "end_timestamp": "00:44.20"
+        },
+        {
+          "episode_number": "Episode 35",
+          "start_timestamp": "02:25.00",
+          "end_timestamp": "02:37.50"
+        }
+      ],
+      "hook": "An elderly woman desperately strains to unlock a secret stone passage, establishing immediate high-stakes escape.",
+      "cliffhanger": "Alexander reveals that the men who betrayed him are the ones currently ruling Ashwood.",
+      "reasoning": "This clip successfully combines a tense escape hook with an emotional family reunion and a conspiracy mystery, making it compelling for new viewers.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 29.4,
+      "episode_number": "Episode 35",
+      "rank": 24
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 36",
+          "start_timestamp": "01:43.50",
+          "end_timestamp": "01:50.00"
+        },
+        {
+          "episode_number": "Episode 36",
+          "start_timestamp": "02:25.80",
+          "end_timestamp": "02:32.00"
+        },
+        {
+          "episode_number": "Episode 36",
+          "start_timestamp": "03:12.50",
+          "end_timestamp": "03:20.75"
+        }
+      ],
+      "hook": "Alexander's expression freezes in complete shock as his mother reveals his wife was arrested for poisoning.",
+      "cliffhanger": "Alexander vows that before their wedding begins, their dead Duke is coming home.",
+      "reasoning": "The clip immediately hooks the viewer with a shocking accusation, builds tension around the impending wedding and death sentence, and delivers a powerful revenge cliffhanger.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 20.95,
+      "episode_number": "Episode 36",
+      "rank": 25
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 40",
+          "start_timestamp": "00:23.20",
+          "end_timestamp": "00:28.90"
+        },
+        {
+          "episode_number": "Episode 40",
+          "start_timestamp": "01:05.00",
+          "end_timestamp": "01:17.40"
+        },
+        {
+          "episode_number": "Episode 40",
+          "start_timestamp": "01:45.00",
+          "end_timestamp": "01:50.08"
+        }
+      ],
+      "hook": "Lady Harrington maliciously taunts, 'Imagine Juliana seeing this.'",
+      "cliffhanger": "Catherine and Rupert exchange triumphant smiles at the altar after calling her a witch who will be dead by sunset.",
+      "reasoning": "This clip effectively highlights the villains' arrogant conspiracy against Juliana and their high-society wedding, leaving viewers eager to see retribution strike.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 23.18,
+      "episode_number": "Episode 40",
+      "rank": 26
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 41",
+          "start_timestamp": "00:17.50",
+          "end_timestamp": "00:22.80"
+        },
+        {
+          "episode_number": "Episode 41",
+          "start_timestamp": "00:58.00",
+          "end_timestamp": "01:00.50"
+        },
+        {
+          "episode_number": "Episode 41",
+          "start_timestamp": "01:21.00",
+          "end_timestamp": "01:36.09"
+        }
+      ],
+      "hook": "Juliana is marched into the cathedral in heavy prison chains to be publicly disgraced by the bride.",
+      "cliffhanger": "Juliana's expression shifts from grim resolve into awestruck realization as mysterious figures emerge from the smoke of the explosion.",
+      "reasoning": "This clip delivers immediate high stakes by opening on a chained captive, builds core conflict through her defiance, and concludes with an explosive rescue cliffhanger that draws in new viewers.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 22.89,
+      "episode_number": "Episode 41",
+      "rank": 27
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 42",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:10.50"
+        },
+        {
+          "episode_number": "Episode 42",
+          "start_timestamp": "00:18.00",
+          "end_timestamp": "00:23.40"
+        },
+        {
+          "episode_number": "Episode 42",
+          "start_timestamp": "01:04.20",
+          "end_timestamp": "01:17.50"
+        }
+      ],
+      "hook": "An imposing nobleman steps through pulverized cathedral doors with cold authority.",
+      "cliffhanger": "Alexander declares that they will now settle what Rupert stole.",
+      "reasoning": "The clip immediately establishes the high-stakes confrontation and betrayal, culminating in a powerful declaration of vengeance.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 92.0,
+      "duration_seconds": 29.2,
+      "episode_number": "Episode 42",
+      "rank": 28
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 2",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:02.80"
+        },
+        {
+          "episode_number": "Episode 2",
+          "start_timestamp": "00:47.60",
+          "end_timestamp": "00:53.40"
+        },
+        {
+          "episode_number": "Episode 2",
+          "start_timestamp": "01:14.20",
+          "end_timestamp": "01:19.00"
+        },
+        {
+          "episode_number": "Episode 2",
+          "start_timestamp": "01:42.80",
+          "end_timestamp": "01:50.00"
+        }
+      ],
+      "hook": "Gerald callously announces to Juliana at the altar, I cannot marry you, Juliana.",
+      "cliffhanger": "Will Juliana's unyielding public indictment completely ruin Gerald and Clarissa's wedding?",
+      "reasoning": "This short-form clip immediately establishes the high-stakes public betrayal, builds tension through the toxic family dynamics, and delivers a powerful turning point where Juliana strikes back.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 88.0,
+      "duration_seconds": 20.6,
+      "episode_number": "Episode 2",
+      "rank": 29
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 5",
+          "start_timestamp": "00:54.00",
+          "end_timestamp": "00:58.20"
+        },
+        {
+          "episode_number": "Episode 5",
+          "start_timestamp": "01:10.50",
+          "end_timestamp": "01:25.40"
+        },
+        {
+          "episode_number": "Episode 5",
+          "start_timestamp": "01:38.00",
+          "end_timestamp": "01:50.50"
+        }
+      ],
+      "hook": "Lady Ashcroft violently wrenches Juliana's cherished mother's ledger out of her grip and flings it into the mud.",
+      "cliffhanger": "Will Juliana and her mysterious new husband escape her toxic family and make a life together?",
+      "reasoning": "The clip immediately hooks the viewer with high emotional cruelty, shows the new husband's steadfast support, and ends on a striking departure that leaves viewers wanting to see what comes next.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 88.0,
+      "duration_seconds": 31.6,
+      "episode_number": "Episode 5",
+      "rank": 30
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 24",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:08.50"
+        },
+        {
+          "episode_number": "Episode 24",
+          "start_timestamp": "00:32.50",
+          "end_timestamp": "00:43.00"
+        },
+        {
+          "episode_number": "Episode 24",
+          "start_timestamp": "01:21.20",
+          "end_timestamp": "01:32.00"
+        }
+      ],
+      "hook": "An ornate brass handle turns and a door swings open to reveal a haughty noblewoman entering the Duchess's chamber.",
+      "cliffhanger": "Juliana stares with unyielding defiance towards the exit, hiding the antidote while the noblewoman remains completely oblivious.",
+      "reasoning": "This clip effectively introduces the high-stakes conflict, the villain's cruelty, and Juliana's secret mission to save the poisoned Duchess.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 88.0,
+      "duration_seconds": 29.8,
+      "episode_number": "Episode 24",
+      "rank": 31
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 26",
+          "start_timestamp": "01:02.60",
+          "end_timestamp": "01:06.70"
+        },
+        {
+          "episode_number": "Episode 26",
+          "start_timestamp": "01:30.80",
+          "end_timestamp": "01:40.00"
+        },
+        {
+          "episode_number": "Episode 26",
+          "start_timestamp": "01:49.20",
+          "end_timestamp": "02:00.88"
+        }
+      ],
+      "hook": "Juliana reassures the poisoned Duchess that the charcoal antidote is working and she is safe.",
+      "cliffhanger": "The Dowager Duchess recognizes the signet ring on Juliana's hand and fiercely demands to know where she got it.",
+      "reasoning": "This clip quickly establishes the life-or-death poisoning plot before pivoting to the central mystery of Juliana's true identity, ending on a powerful, unresolved cliffhanger.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 88.0,
+      "duration_seconds": 24.98,
+      "episode_number": "Episode 26",
+      "rank": 32
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 38",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:03.50"
+        },
+        {
+          "episode_number": "Episode 38",
+          "start_timestamp": "00:11.00",
+          "end_timestamp": "00:15.50"
+        },
+        {
+          "episode_number": "Episode 38",
+          "start_timestamp": "01:04.50",
+          "end_timestamp": "01:27.91"
+        }
+      ],
+      "hook": "Juliana sits slumped, weak and starved in chains on a damp dungeon floor.",
+      "cliffhanger": "Will Juliana survive her impending execution now that the wedding bells have started?",
+      "reasoning": "The clip quickly establishes her imprisonment, a mysterious act of kindness, and the looming threat of the wedding bells signaling her execution.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 88.0,
+      "duration_seconds": 31.41,
+      "episode_number": "Episode 38",
+      "rank": 33
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 48",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:07.50"
+        },
+        {
+          "episode_number": "Episode 48",
+          "start_timestamp": "00:34.00",
+          "end_timestamp": "00:43.00"
+        },
+        {
+          "episode_number": "Episode 48",
+          "start_timestamp": "01:06.90",
+          "end_timestamp": "01:13.50"
+        }
+      ],
+      "hook": "Catherine turns slowly from a window with a cold, venomous smirk and threatens to ruin someone.",
+      "cliffhanger": "Catherine hands Agnes a heavy purse of coins and commands her to summon a secret priest in the dead of night.",
+      "reasoning": "The clip establishes Catherine's villainous plotting and secret alliance immediately, hooking the viewer with high-stakes conspiracy.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 88.0,
+      "duration_seconds": 23.1,
+      "episode_number": "Episode 48",
+      "rank": 34
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 4",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:03.20"
+        },
+        {
+          "episode_number": "Episode 4",
+          "start_timestamp": "00:03.40",
+          "end_timestamp": "00:07.50"
+        },
+        {
+          "episode_number": "Episode 4",
+          "start_timestamp": "01:50.00",
+          "end_timestamp": "01:54.80"
+        },
+        {
+          "episode_number": "Episode 4",
+          "start_timestamp": "02:22.80",
+          "end_timestamp": "02:31.40"
+        }
+      ],
+      "hook": "A scarred stranger offers a silver ring to a stunned bride in the chapel.",
+      "cliffhanger": "Will Juliana and her mysterious husband survive exile after being disowned by her cruel family?",
+      "reasoning": "This clip quickly establishes the stakes, the family's cruelty, the sudden marriage, and the dramatic walk into exile, capturing a complete mini-arc for a new viewer.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 20.7,
+      "episode_number": "Episode 4",
+      "rank": 35
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 7",
+          "start_timestamp": "00:25.00",
+          "end_timestamp": "00:32.60"
+        },
+        {
+          "episode_number": "Episode 7",
+          "start_timestamp": "01:21.00",
+          "end_timestamp": "01:28.00"
+        },
+        {
+          "episode_number": "Episode 7",
+          "start_timestamp": "01:30.00",
+          "end_timestamp": "01:36.00"
+        }
+      ],
+      "hook": "Gerald mocks Juliana's humble new home, saying it is fitting for someone who left comfort for a beggar.",
+      "cliffhanger": "Gerald's arrogant bravado completely vanishes into sheer terror as the scarred husband silently towers over him.",
+      "reasoning": "This compact clip highlights the high-stakes class conflict, the arrogant antagonists, and the intimidating presence of the silent husband, giving new viewers an immediate sense of the drama.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 20.6,
+      "episode_number": "Episode 7",
+      "rank": 36
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 9",
+          "start_timestamp": "00:02.00",
+          "end_timestamp": "00:11.10"
+        },
+        {
+          "episode_number": "Episode 9",
+          "start_timestamp": "01:37.50",
+          "end_timestamp": "01:55.50"
+        }
+      ],
+      "hook": "Heavy, frantic pounding echoes against the heavy wooden cottage door, interrupting Juliana.",
+      "cliffhanger": "Will the Blond Nobleman discover the truth about the veteran's identity before it's too late?",
+      "reasoning": "This clip pairs an urgent, high-stakes medical emergency with a looming threat from the nobleman, creating immediate suspense and clear context for a new viewer.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 27.1,
+      "episode_number": "Episode 9",
+      "rank": 37
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 11",
+          "start_timestamp": "00:04.00",
+          "end_timestamp": "00:10.80"
+        },
+        {
+          "episode_number": "Episode 11",
+          "start_timestamp": "00:16.80",
+          "end_timestamp": "00:22.00"
+        },
+        {
+          "episode_number": "Episode 11",
+          "start_timestamp": "01:31.00",
+          "end_timestamp": "01:46.80"
+        }
+      ],
+      "hook": "Gerald steps out of an incoming carriage in an opulent burgundy coat as Juliana confronts him.",
+      "cliffhanger": "The constable pulls Gerald's stolen gold pocket watch directly from Alexander's coat, leaving Juliana in shattered disbelief.",
+      "reasoning": "This clip quickly establishes the external threat, the accusation of theft, and the devastating planted evidence, creating high stakes for a new viewer.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 27.8,
+      "episode_number": "Episode 11",
+      "rank": 38
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 20",
+          "start_timestamp": "00:02.90",
+          "end_timestamp": "00:07.80"
+        },
+        {
+          "episode_number": "Episode 20",
+          "start_timestamp": "00:21.30",
+          "end_timestamp": "00:25.40"
+        },
+        {
+          "episode_number": "Episode 20",
+          "start_timestamp": "01:06.70",
+          "end_timestamp": "01:10.50"
+        },
+        {
+          "episode_number": "Episode 20",
+          "start_timestamp": "01:46.80",
+          "end_timestamp": "01:54.75"
+        }
+      ],
+      "hook": "Catherine taunting Rupert about his sudden climb to power over tea.",
+      "cliffhanger": "Catherine gazing out the window with icy ambition as strings swell, vowing that Ashbury will bow only to her.",
+      "reasoning": "This clip showcases the villains' plot to seize the estate while contrasting it with Juliana's resilience in the barn, leading into a suspenseful cliffhanger.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 20.75,
+      "episode_number": "Episode 20",
+      "rank": 39
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 25",
+          "start_timestamp": "00:13.20",
+          "end_timestamp": "00:22.50"
+        },
+        {
+          "episode_number": "Episode 25",
+          "start_timestamp": "01:20.20",
+          "end_timestamp": "01:26.20"
+        },
+        {
+          "episode_number": "Episode 25",
+          "start_timestamp": "02:08.20",
+          "end_timestamp": "02:13.80"
+        }
+      ],
+      "hook": "Alexander grabs Juliana's shoulder, causing her to gasp in pain as he discovers a raw, bloody welt across her back.",
+      "cliffhanger": "Alexander seethes with fury, demanding to know why Juliana never told him she was standing inside a house where someone is poisoning a woman.",
+      "reasoning": "This short promotional clip highlights immediate physical conflict, high-stakes medical mystery involving arsenic poisoning, and deep emotional tension between the leads, capturing new viewers instantly.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 20.9,
+      "episode_number": "Episode 25",
+      "rank": 40
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 30",
+          "start_timestamp": "00:08.80",
+          "end_timestamp": "00:16.80"
+        },
+        {
+          "episode_number": "Episode 30",
+          "start_timestamp": "01:25.80",
+          "end_timestamp": "01:33.40"
+        },
+        {
+          "episode_number": "Episode 30",
+          "start_timestamp": "02:24.50",
+          "end_timestamp": "02:31.21"
+        }
+      ],
+      "hook": "An elder nobleman accuses Rupert of keeping a rat in his cellar, revealing a dark secret.",
+      "cliffhanger": "Will Juliana survive the fabricated witchcraft charge and escape the dark, flooded dungeon?",
+      "reasoning": "This clip quickly establishes the dark conspiracy to frame Juliana for witchcraft and ends on her vulnerable state in the dungeon, providing a clear narrative arc for a new viewer.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 22.31,
+      "episode_number": "Episode 30",
+      "rank": 41
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 37",
+          "start_timestamp": "00:19.00",
+          "end_timestamp": "00:23.00"
+        },
+        {
+          "episode_number": "Episode 37",
+          "start_timestamp": "01:40.80",
+          "end_timestamp": "01:43.20"
+        },
+        {
+          "episode_number": "Episode 37",
+          "start_timestamp": "02:22.50",
+          "end_timestamp": "02:36.47"
+        }
+      ],
+      "hook": "Rupert narrows his eyes with venomous malice while plotting Juliana's fate.",
+      "cliffhanger": "The dark cello rumble fades over the open execution clause leaving the viewer wondering if Juliana can survive.",
+      "reasoning": "This clip effectively highlights the villains' cruel plot, the heroine's unyielding defiance, and an intense cliffhanger that draws new viewers into the story.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 20.37,
+      "episode_number": "Episode 37",
+      "rank": 42
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 46",
+          "start_timestamp": "00:07.10",
+          "end_timestamp": "00:16.80"
+        },
+        {
+          "episode_number": "Episode 46",
+          "start_timestamp": "00:58.20",
+          "end_timestamp": "01:05.50"
+        },
+        {
+          "episode_number": "Episode 46",
+          "start_timestamp": "01:51.80",
+          "end_timestamp": "02:06.50"
+        },
+        {
+          "episode_number": "Episode 46",
+          "start_timestamp": "02:20.50",
+          "end_timestamp": "02:23.88"
+        }
+      ],
+      "hook": "Armed royal guards march down the church aisle to seize the sanctuary.",
+      "cliffhanger": "Will Catherine's scheme destroy Alexander and Juliana's marriage within the ten-day trial?",
+      "reasoning": "This clip delivers high dramatic stakes by showing the marriage's invalidation, the couple's defiance, and the antagonist's plot, making it instantly engaging for a new viewer.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 35.08,
+      "episode_number": "Episode 46",
+      "rank": 43
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 47",
+          "start_timestamp": "01:18.80",
+          "end_timestamp": "01:23.50"
+        },
+        {
+          "episode_number": "Episode 47",
+          "start_timestamp": "01:31.00",
+          "end_timestamp": "01:41.20"
+        },
+        {
+          "episode_number": "Episode 47",
+          "start_timestamp": "02:07.50",
+          "end_timestamp": "02:14.00"
+        }
+      ],
+      "hook": "Catherine screams hysterically in the courtyard, begging Alexander for mercy after being cast out.",
+      "cliffhanger": "Will Catherine use her new position as a scullery maid to plot her revenge, or will she break entirely?",
+      "reasoning": "This clip delivers an immediate emotional peak with Catherine's desperate plea and transitions directly into Juliana's stunning, humiliating sentence, capturing the core conflict of the episode in a fast-paced narrative.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 21.4,
+      "episode_number": "Episode 47",
+      "rank": 44
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 50",
+          "start_timestamp": "00:15.80",
+          "end_timestamp": "00:26.50"
+        },
+        {
+          "episode_number": "Episode 50",
+          "start_timestamp": "01:10.50",
+          "end_timestamp": "01:20.00"
+        }
+      ],
+      "hook": "Catherine and Father Thomas sitting up in bed negotiating a corrupt political bargain.",
+      "cliffhanger": "Will Agnes escape undetected after discovering their scandalous affair, or will her terror give them away?",
+      "reasoning": "This clip efficiently contrasts high-stakes political extortion with a shocking discovery, keeping viewers hooked within the ideal duration.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 86.0,
+      "duration_seconds": 20.2,
+      "episode_number": "Episode 50",
+      "rank": 45
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 17",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:03.00"
+        },
+        {
+          "episode_number": "Episode 17",
+          "start_timestamp": "00:18.00",
+          "end_timestamp": "00:23.50"
+        },
+        {
+          "episode_number": "Episode 17",
+          "start_timestamp": "01:00.50",
+          "end_timestamp": "01:06.00"
+        },
+        {
+          "episode_number": "Episode 17",
+          "start_timestamp": "01:48.00",
+          "end_timestamp": "01:58.88"
+        }
+      ],
+      "hook": "A high angle wide shot reveals a devastated garden with broken planters and Juliana kneeling in the mud.",
+      "cliffhanger": "Juliana reflects on her mysterious husband in voiceover while they embrace warmly by the hearth, leaving viewers wondering what secrets he is hiding.",
+      "reasoning": "This selection builds a miniature narrative from the aftermath of an attack to a tender romance, highlighting the protective chemistry between the leads and a compelling mystery for new viewers.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 82.0,
+      "duration_seconds": 24.88,
+      "episode_number": "Episode 17",
+      "rank": 46
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 6",
+          "start_timestamp": "00:07.10",
+          "end_timestamp": "00:14.90"
+        },
+        {
+          "episode_number": "Episode 6",
+          "start_timestamp": "00:24.00",
+          "end_timestamp": "00:33.70"
+        },
+        {
+          "episode_number": "Episode 6",
+          "start_timestamp": "01:10.10",
+          "end_timestamp": "01:23.80"
+        }
+      ],
+      "hook": "Juliana and her mysterious new husband trudge through the dark, rainy woods while he acknowledges her difficult new reality.",
+      "cliffhanger": "Juliana breaks down while scrubbing the cabin, declaring that stopping means confronting everything she has lost.",
+      "reasoning": "This clip showcases Juliana's transition from aristocratic despair to finding an unexpected sanctuary, creating an emotional and standalone narrative arc.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 80.0,
+      "duration_seconds": 31.2,
+      "episode_number": "Episode 6",
+      "rank": 47
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 8",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:05.10"
+        },
+        {
+          "episode_number": "Episode 8",
+          "start_timestamp": "00:30.10",
+          "end_timestamp": "00:35.50"
+        },
+        {
+          "episode_number": "Episode 8",
+          "start_timestamp": "01:00.50",
+          "end_timestamp": "01:15.30"
+        }
+      ],
+      "hook": "Juliana gently touches an aged herbal grimoire and warns about ruined pages, establishing a somber and intimate tone.",
+      "cliffhanger": "Juliana reflects that losing wealth might not mean losing everything, leaving viewers wondering what truly defines her new life.",
+      "reasoning": "This clip showcases the emotional chemistry between Juliana and Alexander while delivering a strong narrative arc from mystery to romance and introspection.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 80.0,
+      "duration_seconds": 25.3,
+      "episode_number": "Episode 8",
+      "rank": 48
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 29",
+          "start_timestamp": "00:07.40",
+          "end_timestamp": "00:11.70"
+        },
+        {
+          "episode_number": "Episode 29",
+          "start_timestamp": "00:37.40",
+          "end_timestamp": "00:44.30"
+        },
+        {
+          "episode_number": "Episode 29",
+          "start_timestamp": "01:23.00",
+          "end_timestamp": "01:28.00"
+        },
+        {
+          "episode_number": "Episode 29",
+          "start_timestamp": "01:49.00",
+          "end_timestamp": "01:56.69"
+        }
+      ],
+      "hook": "Juliana crying out in anguish as her mother's legacy is stolen",
+      "cliffhanger": "Will Juliana's husband Alexander save her before she is framed for witchcraft?",
+      "reasoning": "This clip effectively establishes the high-stakes conflict between Juliana and Catherine, blending emotional vulnerability with a strong vow of resistance.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 80.0,
+      "duration_seconds": 23.89,
+      "episode_number": "Episode 29",
+      "rank": 49
+    },
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 49",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:05.20"
+        },
+        {
+          "episode_number": "Episode 49",
+          "start_timestamp": "01:17.00",
+          "end_timestamp": "01:23.80"
+        },
+        {
+          "episode_number": "Episode 49",
+          "start_timestamp": "02:14.50",
+          "end_timestamp": "02:24.75"
+        }
+      ],
+      "hook": "A mysterious cloaked figure quietly slips through a dark, derelict manor wing before dawn.",
+      "cliffhanger": "Will Father Thomas and Catherine seal their treasonous pact by touching, and can they avoid the Duke's wrath?",
+      "reasoning": "This concise montage establishes the forbidden alliance and high-stakes conspiracy between a disgraced bride and a priest, culminating in an intense unresolved climax.",
+      "quality_scores": {
+        "hook": 4,
+        "cliffhanger": 4,
+        "standalone": 4,
+        "timing": 4
+      },
+      "rank_score": 80.0,
+      "duration_seconds": 22.25,
+      "episode_number": "Episode 49",
+      "rank": 50
+    }
+  ],
+  "cross_episode_promos": [
+    {
+      "segments": [
+        {
+          "episode_number": "Episode 41",
+          "start_timestamp": "01:21.00",
+          "end_timestamp": "01:25.50"
+        },
+        {
+          "episode_number": "Episode 42",
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:10.50"
+        },
+        {
+          "episode_number": "Episode 44",
+          "start_timestamp": "01:05.00",
+          "end_timestamp": "01:10.50"
+        }
+      ],
+      "hook": "An ear-splitting detonation shatters the cathedral entrance as stone masonry and wood splinter into flying shrapnel.",
+      "cliffhanger": "Catherine gasps in utter disbelief 'Her?!' as Alexander turns away from her to approach the chained Juliana.",
+      "reasoning": "This 3-moment edit opens with explosive spectacle, transitions to Alexander's imposing reclamation of his ducal title, and cuts on the dramatic betrayal of Catherine as Alexander chooses Juliana.",
+      "quality_scores": {
+        "hook": 5,
+        "cliffhanger": 5,
+        "standalone": 4,
+        "timing": 5
+      },
+      "rank_score": 94.0,
+      "duration_seconds": 20.5,
+      "episode_number": "Cross-episode",
+      "episode_numbers": [
+        "Episode 41",
+        "Episode 42",
+        "Episode 44"
+      ],
+      "rank": 1
+    }
+  ]
+}

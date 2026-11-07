@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:54.00",
+      "end_timestamp": "00:58.20"
+    },
+    {
+      "start_timestamp": "01:10.50",
+      "end_timestamp": "01:25.40"
+    },
+    {
+      "start_timestamp": "01:38.00",
+      "end_timestamp": "01:50.50"
+    }
+  ],
+  "hook": "Lady Ashcroft violently wrenches Juliana's cherished mother's ledger out of her grip and flings it into the mud.",
+  "cliffhanger": "Will Juliana and her mysterious new husband escape her toxic family and make a life together?",
+  "reasoning": "The clip immediately hooks the viewer with high emotional cruelty, shows the new husband's steadfast support, and ends on a striking departure that leaves viewers wanting to see what comes next.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 5
+  }
+}

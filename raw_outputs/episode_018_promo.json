@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 18",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:02.10"
+    },
+    {
+      "episode_number": "Episode 18",
+      "start_timestamp": "01:21.50",
+      "end_timestamp": "01:26.50"
+    },
+    {
+      "episode_number": "Episode 18",
+      "start_timestamp": "02:51.00",
+      "end_timestamp": "03:12.00"
+    }
+  ],
+  "hook": "Bright orange flames crackling beneath a closed bedroom door with thick smoke billowing through the crevices",
+  "cliffhanger": "Alexander's silent, unyielding resolve staring into the inferno as Juliana asks what he is going to do",
+  "reasoning": "This clip immediately establishes high-stakes peril with a house fire, builds tension through a narrow escape to save a treasured ledger, and ends on a powerful vow of vengeance that drives the narrative forward for any viewer.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  },
+  "rank_score": 94.0,
+  "duration_seconds": 28.1,
+  "episode_number": "Episode 18"
+}

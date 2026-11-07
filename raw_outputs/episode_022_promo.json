@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 22",
+      "start_timestamp": "00:06.50",
+      "end_timestamp": "00:11.10"
+    },
+    {
+      "episode_number": "Episode 22",
+      "start_timestamp": "00:43.00",
+      "end_timestamp": "00:51.80"
+    },
+    {
+      "episode_number": "Episode 22",
+      "start_timestamp": "02:03.00",
+      "end_timestamp": "02:11.00"
+    }
+  ],
+  "hook": "Prudence rushes up to warn Juliana to keep her head down because if anyone recognizes her, everything is over.",
+  "cliffhanger": "The Dowager Duchess suffers an agonizing convulsion while staring with terrified eyes as Juliana demands to know who has been treating her for the poison.",
+  "reasoning": "This clip effectively compresses the high-stakes infiltration and the terrifying medical discovery into an engaging 21-second teaser that stands on its own.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  },
+  "rank_score": 94.0,
+  "duration_seconds": 21.4,
+  "episode_number": "Episode 22"
+}

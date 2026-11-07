@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:15.80",
+      "end_timestamp": "00:26.50"
+    },
+    {
+      "start_timestamp": "01:10.50",
+      "end_timestamp": "01:20.00"
+    }
+  ],
+  "hook": "Catherine and Father Thomas sitting up in bed negotiating a corrupt political bargain.",
+  "cliffhanger": "Will Agnes escape undetected after discovering their scandalous affair, or will her terror give them away?",
+  "reasoning": "This clip efficiently contrasts high-stakes political extortion with a shocking discovery, keeping viewers hooked within the ideal duration.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:03.50",
+      "end_timestamp": "00:08.00"
+    },
+    {
+      "start_timestamp": "01:10.50",
+      "end_timestamp": "01:15.50"
+    },
+    {
+      "start_timestamp": "01:41.20",
+      "end_timestamp": "01:48.40"
+    },
+    {
+      "start_timestamp": "01:48.50",
+      "end_timestamp": "01:54.00"
+    }
+  ],
+  "hook": "Prudence bursts through the barn doors frantically weeping and pleading that her brother Toby is dying.",
+  "cliffhanger": "Lady Juliana is left staring down at her ledger in shock as she realizes the Dowager Duchess is secretly dying from a mysterious illness.",
+  "reasoning": "The clip hooks the viewer immediately with a medical emergency, shows Juliana's heroic cure, and ends on a high-stakes secret that introduces the central aristocratic conflict.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

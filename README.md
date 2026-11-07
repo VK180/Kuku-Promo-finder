@@ -42,8 +42,7 @@ separate cross-episode montage.
 
    The app reads `raw_outputs/ranked_promos.json` when it exists. Otherwise, use
    **Run on a new screenplay input** to analyze a local directory, local ZIP,
-   uploaded ZIP, or multiple uploaded TXT scripts. Hosted deployments start
-   without precomputed results; upload a permitted pack there.
+   uploaded ZIP, or multiple uploaded TXT scripts.
 
 ## Deploy to Streamlit Community Cloud
 
@@ -51,11 +50,13 @@ The app entry point is `app.py`, and `requirements.txt` lists its dependencies.
 Create the Community Cloud app from the
 [Kuku Promo Finder GitHub repository](https://github.com/VK180/Kuku-Promo-finder)
 or open the [pre-filled deployment form](https://share.streamlit.io/deploy?repository=VK180%2FKuku-Promo-finder&branch=main&mainModule=app.py).
-Select branch `main` and main file `app.py` if they are not preselected. The hosted
-app can start without saved results: a reviewer uploads a permitted ZIP/TXT pack,
-selects a provider and model, and enters their API key in the form. Do not add
-`.env`, screenplay packs, or generated raw outputs to a public repository. The
-chosen model API receives uploaded screenplay text.
+Select branch `main` and main file `app.py` if they are not preselected. The
+repository includes the generated `raw_outputs/` results and `SOLUTION.md`; the
+hosted app loads the saved rankings and shows hooks, cliffhangers, timestamps,
+and scores on startup. Reviewers can also upload another permitted ZIP/TXT pack,
+select a provider and model, and enter their API key in the form. The assignment
+source screenplay ZIP, `.env`, and `SOLUTION.pdf` are excluded from the public
+repository. The chosen model API receives uploaded screenplay text.
 
 ## Model providers
 

@@ -1,0 +1,24 @@
+{
+  "episode_number": "Episode 13",
+  "segments": [
+    {
+      "start_timestamp": "01:07.50",
+      "end_timestamp": "01:14.00"
+    },
+    {
+      "start_timestamp": "01:43.00",
+      "end_timestamp": "01:58.88"
+    }
+  ],
+  "hook": "A massive blackthorn needle stabs deep into the back of Juliana's bleeding hand with a sickening crunch.",
+  "cliffhanger": "Will Juliana survive the brutal escape from the thorn garden, and will the emerald signet ring actually save Alexander from the gallows?",
+  "reasoning": "The visceral violence of the thorns combined with the emotional stakes of her bleeding for her husband creates an intense hook and high-stakes cliffhanger.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 22.38
+}

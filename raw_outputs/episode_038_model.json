@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:03.50"
+    },
+    {
+      "start_timestamp": "00:11.00",
+      "end_timestamp": "00:15.50"
+    },
+    {
+      "start_timestamp": "01:04.50",
+      "end_timestamp": "01:27.91"
+    }
+  ],
+  "hook": "Juliana sits slumped, weak and starved in chains on a damp dungeon floor.",
+  "cliffhanger": "Will Juliana survive her impending execution now that the wedding bells have started?",
+  "reasoning": "The clip quickly establishes her imprisonment, a mysterious act of kindness, and the looming threat of the wedding bells signaling her execution.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:04.80"
+    },
+    {
+      "start_timestamp": "01:14.60",
+      "end_timestamp": "01:20.40"
+    },
+    {
+      "start_timestamp": "01:48.80",
+      "end_timestamp": "02:01.75"
+    }
+  ],
+  "hook": "Alexander strides purposefully down the cathedral aisle toward Juliana who stands shackled in chains.",
+  "cliffhanger": "A high priest arrives with a royal parchment to declare their marriage legally invalid, while rival Catherine smiles triumphantly.",
+  "reasoning": "This clip immediately grabs attention with a dramatic rescue, establishes the romantic stakes of the new duchess proclamation, and leaves viewers hanging on a devastating legal twist.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

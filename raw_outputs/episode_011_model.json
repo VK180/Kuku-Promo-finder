@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:04.00",
+      "end_timestamp": "00:10.80"
+    },
+    {
+      "start_timestamp": "00:16.80",
+      "end_timestamp": "00:22.00"
+    },
+    {
+      "start_timestamp": "01:31.00",
+      "end_timestamp": "01:46.80"
+    }
+  ],
+  "hook": "Gerald steps out of an incoming carriage in an opulent burgundy coat as Juliana confronts him.",
+  "cliffhanger": "The constable pulls Gerald's stolen gold pocket watch directly from Alexander's coat, leaving Juliana in shattered disbelief.",
+  "reasoning": "This clip quickly establishes the external threat, the accusation of theft, and the devastating planted evidence, creating high stakes for a new viewer.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  }
+}

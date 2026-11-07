@@ -1,0 +1,36 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 29",
+      "start_timestamp": "00:07.40",
+      "end_timestamp": "00:11.70"
+    },
+    {
+      "episode_number": "Episode 29",
+      "start_timestamp": "00:37.40",
+      "end_timestamp": "00:44.30"
+    },
+    {
+      "episode_number": "Episode 29",
+      "start_timestamp": "01:23.00",
+      "end_timestamp": "01:28.00"
+    },
+    {
+      "episode_number": "Episode 29",
+      "start_timestamp": "01:49.00",
+      "end_timestamp": "01:56.69"
+    }
+  ],
+  "hook": "Juliana crying out in anguish as her mother's legacy is stolen",
+  "cliffhanger": "Will Juliana's husband Alexander save her before she is framed for witchcraft?",
+  "reasoning": "This clip effectively establishes the high-stakes conflict between Juliana and Catherine, blending emotional vulnerability with a strong vow of resistance.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 80.0,
+  "duration_seconds": 23.89,
+  "episode_number": "Episode 29"
+}

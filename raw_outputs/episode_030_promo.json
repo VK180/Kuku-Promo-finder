@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 30",
+      "start_timestamp": "00:08.80",
+      "end_timestamp": "00:16.80"
+    },
+    {
+      "episode_number": "Episode 30",
+      "start_timestamp": "01:25.80",
+      "end_timestamp": "01:33.40"
+    },
+    {
+      "episode_number": "Episode 30",
+      "start_timestamp": "02:24.50",
+      "end_timestamp": "02:31.21"
+    }
+  ],
+  "hook": "An elder nobleman accuses Rupert of keeping a rat in his cellar, revealing a dark secret.",
+  "cliffhanger": "Will Juliana survive the fabricated witchcraft charge and escape the dark, flooded dungeon?",
+  "reasoning": "This clip quickly establishes the dark conspiracy to frame Juliana for witchcraft and ends on her vulnerable state in the dungeon, providing a clear narrative arc for a new viewer.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 86.0,
+  "duration_seconds": 22.31,
+  "episode_number": "Episode 30"
+}

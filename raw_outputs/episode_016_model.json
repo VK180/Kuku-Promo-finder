@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:14.30",
+      "end_timestamp": "00:21.80"
+    },
+    {
+      "start_timestamp": "00:40.80",
+      "end_timestamp": "00:55.20"
+    }
+  ],
+  "hook": "Alexander effortlessly catches an iron pipe swung by a charging thug with his bare hand.",
+  "cliffhanger": "Juliana reels in absolute shock as the thug confesses that Gerald Harrington is the mastermind behind the attack.",
+  "reasoning": "This clip pairs high-octane combat action right at the start with a massive betrayal revelation, delivering a punchy, complete narrative arc within 22 seconds.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

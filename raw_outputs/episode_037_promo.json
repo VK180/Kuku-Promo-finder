@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 37",
+      "start_timestamp": "00:19.00",
+      "end_timestamp": "00:23.00"
+    },
+    {
+      "episode_number": "Episode 37",
+      "start_timestamp": "01:40.80",
+      "end_timestamp": "01:43.20"
+    },
+    {
+      "episode_number": "Episode 37",
+      "start_timestamp": "02:22.50",
+      "end_timestamp": "02:36.47"
+    }
+  ],
+  "hook": "Rupert narrows his eyes with venomous malice while plotting Juliana's fate.",
+  "cliffhanger": "The dark cello rumble fades over the open execution clause leaving the viewer wondering if Juliana can survive.",
+  "reasoning": "This clip effectively highlights the villains' cruel plot, the heroine's unyielding defiance, and an intense cliffhanger that draws new viewers into the story.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 86.0,
+  "duration_seconds": 20.37,
+  "episode_number": "Episode 37"
+}

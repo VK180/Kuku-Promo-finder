@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 36",
+      "start_timestamp": "01:43.50",
+      "end_timestamp": "01:50.00"
+    },
+    {
+      "episode_number": "Episode 36",
+      "start_timestamp": "02:25.80",
+      "end_timestamp": "02:32.00"
+    },
+    {
+      "episode_number": "Episode 36",
+      "start_timestamp": "03:12.50",
+      "end_timestamp": "03:20.75"
+    }
+  ],
+  "hook": "Alexander's expression freezes in complete shock as his mother reveals his wife was arrested for poisoning.",
+  "cliffhanger": "Alexander vows that before their wedding begins, their dead Duke is coming home.",
+  "reasoning": "The clip immediately hooks the viewer with a shocking accusation, builds tension around the impending wedding and death sentence, and delivers a powerful revenge cliffhanger.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 20.95,
+  "episode_number": "Episode 36"
+}

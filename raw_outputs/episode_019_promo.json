@@ -1,0 +1,36 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 19",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:04.50"
+    },
+    {
+      "episode_number": "Episode 19",
+      "start_timestamp": "00:43.00",
+      "end_timestamp": "00:49.20"
+    },
+    {
+      "episode_number": "Episode 19",
+      "start_timestamp": "01:16.50",
+      "end_timestamp": "01:18.80"
+    },
+    {
+      "episode_number": "Episode 19",
+      "start_timestamp": "01:52.50",
+      "end_timestamp": "01:59.63"
+    }
+  ],
+  "hook": "Juliana stands amidst the smoldering wreckage of her destroyed home, clutching a scorched book and lamenting that they lost everything.",
+  "cliffhanger": "Alexander vows vengeance as his mother remains imprisoned, leaving viewers wondering how he will reclaim his stolen title.",
+  "reasoning": "This clip effectively introduces the protagonists' sudden ruin, the political conspiracy against them, and their resilient bond, creating a compelling standalone promo.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 20.13,
+  "episode_number": "Episode 19"
+}

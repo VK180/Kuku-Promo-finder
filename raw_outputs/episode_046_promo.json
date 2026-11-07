@@ -1,0 +1,36 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 46",
+      "start_timestamp": "00:07.10",
+      "end_timestamp": "00:16.80"
+    },
+    {
+      "episode_number": "Episode 46",
+      "start_timestamp": "00:58.20",
+      "end_timestamp": "01:05.50"
+    },
+    {
+      "episode_number": "Episode 46",
+      "start_timestamp": "01:51.80",
+      "end_timestamp": "02:06.50"
+    },
+    {
+      "episode_number": "Episode 46",
+      "start_timestamp": "02:20.50",
+      "end_timestamp": "02:23.88"
+    }
+  ],
+  "hook": "Armed royal guards march down the church aisle to seize the sanctuary.",
+  "cliffhanger": "Will Catherine's scheme destroy Alexander and Juliana's marriage within the ten-day trial?",
+  "reasoning": "This clip delivers high dramatic stakes by showing the marriage's invalidation, the couple's defiance, and the antagonist's plot, making it instantly engaging for a new viewer.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 86.0,
+  "duration_seconds": 35.08,
+  "episode_number": "Episode 46"
+}

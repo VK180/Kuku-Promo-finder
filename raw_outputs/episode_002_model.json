@@ -1,0 +1,29 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:02.80"
+    },
+    {
+      "start_timestamp": "00:47.60",
+      "end_timestamp": "00:53.40"
+    },
+    {
+      "start_timestamp": "01:14.20",
+      "end_timestamp": "01:19.00"
+    },
+    {
+      "start_timestamp": "01:42.80",
+      "end_timestamp": "01:50.00"
+    }
+  ],
+  "hook": "Gerald callously announces to Juliana at the altar, I cannot marry you, Juliana.",
+  "cliffhanger": "Will Juliana's unyielding public indictment completely ruin Gerald and Clarissa's wedding?",
+  "reasoning": "This short-form clip immediately establishes the high-stakes public betrayal, builds tension through the toxic family dynamics, and delivers a powerful turning point where Juliana strikes back.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 5
+  }
+}

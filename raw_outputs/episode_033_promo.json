@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 33",
+      "start_timestamp": "01:04.40",
+      "end_timestamp": "01:13.00"
+    },
+    {
+      "episode_number": "Episode 33",
+      "start_timestamp": "02:14.50",
+      "end_timestamp": "02:29.00"
+    },
+    {
+      "episode_number": "Episode 33",
+      "start_timestamp": "02:36.20",
+      "end_timestamp": "02:44.50"
+    }
+  ],
+  "hook": "The aristocratic lord coldly threatens to send the maid's seven-year-old brother to the county gaol before sunrise.",
+  "cliffhanger": "Will the heartbroken maid choose to save her brother by committing perjury and framing Lady Juliana for witchcraft?",
+  "reasoning": "The clip immediately highlights the high emotional stakes of coercion, building tension as the lord corners the maid into a devastating choice, ending on a powerful visual and emotional cliffhanger.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 31.4,
+  "episode_number": "Episode 33"
+}

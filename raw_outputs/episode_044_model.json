@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:13.80"
+    },
+    {
+      "start_timestamp": "00:24.40",
+      "end_timestamp": "00:42.80"
+    },
+    {
+      "start_timestamp": "01:05.00",
+      "end_timestamp": "01:10.50"
+    }
+  ],
+  "hook": "A stern Police Constable steps through stone doors to arrest Lord Sterling under the Crown's order.",
+  "cliffhanger": "Catherine gasps in horrified disbelief as Alexander walks past her to approach a chained bride.",
+  "reasoning": "The clip establishes immediate high-stakes conflict with an arrest, escalates through a deeply emotional romantic betrayal, and ends on a stunning unresolved question about the protagonist's true allegiance.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

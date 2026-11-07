@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 28",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:04.70"
+    },
+    {
+      "episode_number": "Episode 28",
+      "start_timestamp": "00:24.80",
+      "end_timestamp": "00:32.80"
+    },
+    {
+      "episode_number": "Episode 28",
+      "start_timestamp": "02:11.20",
+      "end_timestamp": "02:18.50"
+    }
+  ],
+  "hook": "Juliana is dragged backward by a guard and her herbarium is trampled by Catherine's foot.",
+  "cliffhanger": "Will Juliana be executed for a crime she didn't commit now that her true aristocratic identity has been exposed?",
+  "reasoning": "This clip effectively highlights the framed protagonist, the duchess's dramatic defense, and the high-stakes threat of the gallows.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  },
+  "rank_score": 94.0,
+  "duration_seconds": 20.0,
+  "episode_number": "Episode 28"
+}

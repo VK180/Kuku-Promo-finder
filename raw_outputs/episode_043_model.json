@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:03.90"
+    },
+    {
+      "start_timestamp": "00:13.80",
+      "end_timestamp": "00:21.60"
+    },
+    {
+      "start_timestamp": "01:43.40",
+      "end_timestamp": "01:54.96"
+    }
+  ],
+  "hook": "Rupert frantically screams 'You're lying!' and lunges in venomous desperation.",
+  "cliffhanger": "Will Lord Sterling escape past the police constable or will his treasonous plot be fully exposed?",
+  "reasoning": "This clip opens with an immediate emotional explosion, clearly establishes Alexander's rightful claim through the royal guard's defiance, and cuts on a high-stakes escape attempt.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 5
+  }
+}

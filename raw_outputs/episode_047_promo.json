@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 47",
+      "start_timestamp": "01:18.80",
+      "end_timestamp": "01:23.50"
+    },
+    {
+      "episode_number": "Episode 47",
+      "start_timestamp": "01:31.00",
+      "end_timestamp": "01:41.20"
+    },
+    {
+      "episode_number": "Episode 47",
+      "start_timestamp": "02:07.50",
+      "end_timestamp": "02:14.00"
+    }
+  ],
+  "hook": "Catherine screams hysterically in the courtyard, begging Alexander for mercy after being cast out.",
+  "cliffhanger": "Will Catherine use her new position as a scullery maid to plot her revenge, or will she break entirely?",
+  "reasoning": "This clip delivers an immediate emotional peak with Catherine's desperate plea and transitions directly into Juliana's stunning, humiliating sentence, capturing the core conflict of the episode in a fast-paced narrative.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 86.0,
+  "duration_seconds": 21.4,
+  "episode_number": "Episode 47"
+}

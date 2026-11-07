@@ -1,0 +1,24 @@
+{
+  "episode_number": "Episode 15",
+  "segments": [
+    {
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:05.00"
+    },
+    {
+      "start_timestamp": "00:46.50",
+      "end_timestamp": "01:26.00"
+    }
+  ],
+  "hook": "Three menacing thugs stalk through a quiet herbal garden before brutally smashing a wooden planter box with a heavy club.",
+  "cliffhanger": "Alexander stands between the ruthless thugs and Juliana as the thugs challenge him right before a tense cello swell holds into an abrupt cut.",
+  "reasoning": "This clip delivers high emotional stakes, showing cruelty toward Juliana's bandaged hands and her mother's garden, followed by Alexander's thrilling arrival to defend her.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 5,
+    "timing": 5
+  },
+  "rank_score": 100.0,
+  "duration_seconds": 44.5
+}

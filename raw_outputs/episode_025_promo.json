@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 25",
+      "start_timestamp": "00:13.20",
+      "end_timestamp": "00:22.50"
+    },
+    {
+      "episode_number": "Episode 25",
+      "start_timestamp": "01:20.20",
+      "end_timestamp": "01:26.20"
+    },
+    {
+      "episode_number": "Episode 25",
+      "start_timestamp": "02:08.20",
+      "end_timestamp": "02:13.80"
+    }
+  ],
+  "hook": "Alexander grabs Juliana's shoulder, causing her to gasp in pain as he discovers a raw, bloody welt across her back.",
+  "cliffhanger": "Alexander seethes with fury, demanding to know why Juliana never told him she was standing inside a house where someone is poisoning a woman.",
+  "reasoning": "This short promotional clip highlights immediate physical conflict, high-stakes medical mystery involving arsenic poisoning, and deep emotional tension between the leads, capturing new viewers instantly.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 4,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 86.0,
+  "duration_seconds": 20.9,
+  "episode_number": "Episode 25"
+}

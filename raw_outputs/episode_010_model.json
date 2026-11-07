@@ -1,0 +1,25 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:02.60",
+      "end_timestamp": "00:06.80"
+    },
+    {
+      "start_timestamp": "00:33.20",
+      "end_timestamp": "00:39.20"
+    },
+    {
+      "start_timestamp": "01:19.00",
+      "end_timestamp": "01:34.00"
+    }
+  ],
+  "hook": "Alexander stands in the dark threshold, panting heavily with his hand pressed against his blood-soaked chest.",
+  "cliffhanger": "Juliana is left completely captivated and overwhelmed by Alexander's intense confession as the firelight dances across their intertwined hands.",
+  "reasoning": "The clip immediately grabs the viewer with the shocking entrance of a wounded man, develops the intimate backstory through his scars, and ends on an unresolved romantic cliffhanger.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  }
+}

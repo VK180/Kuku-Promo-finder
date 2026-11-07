@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "episode_number": "Episode 32",
+      "start_timestamp": "00:00.00",
+      "end_timestamp": "00:05.20"
+    },
+    {
+      "episode_number": "Episode 32",
+      "start_timestamp": "01:52.50",
+      "end_timestamp": "02:01.80"
+    },
+    {
+      "episode_number": "Episode 32",
+      "start_timestamp": "02:28.00",
+      "end_timestamp": "02:34.38"
+    }
+  ],
+  "hook": "Close-up on a glowing branding iron sizzling against a botanical ledger in a dark dungeon, followed by Catherine mocking chained Juliana.",
+  "cliffhanger": "Will Catherine plunge the glowing iron into Juliana's eye, or will Juliana's unshakeable defiance break her executioner first?",
+  "reasoning": "This clip delivers instant high-stakes visual impact and highlights the intense psychological battle between a trapped captive and her tyrannical tormentor.",
+  "quality_scores": {
+    "hook": 5,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  },
+  "rank_score": 92.0,
+  "duration_seconds": 20.88,
+  "episode_number": "Episode 32"
+}

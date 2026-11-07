@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "start_timestamp": "00:02.00",
+      "end_timestamp": "00:11.10"
+    },
+    {
+      "start_timestamp": "01:37.50",
+      "end_timestamp": "01:55.50"
+    }
+  ],
+  "hook": "Heavy, frantic pounding echoes against the heavy wooden cottage door, interrupting Juliana.",
+  "cliffhanger": "Will the Blond Nobleman discover the truth about the veteran's identity before it's too late?",
+  "reasoning": "This clip pairs an urgent, high-stakes medical emergency with a looming threat from the nobleman, creating immediate suspense and clear context for a new viewer.",
+  "quality_scores": {
+    "hook": 4,
+    "cliffhanger": 5,
+    "standalone": 4,
+    "timing": 4
+  }
+}
